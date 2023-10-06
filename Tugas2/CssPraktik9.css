@@ -1,0 +1,59 @@
+.atas {
+    border-top-right-radius: 60px;
+    border-top-left-radius: 60px;
+    border: 5px solid black;
+    padding: 75px;
+    background-color: lightblue;
+    text-align: center;
+    font-size: x-large;
+    }
+    .tengah {
+    border: 5px solid black;
+    padding: 175px;
+    background-color: lightblue;
+    }
+    .bawah {
+    border-bottom-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border: 5px solid black;
+    padding: 75px;
+    background-color: lightblue;
+    text-align: center;
+    font-size: x-large;
+    }
+    .kanan {
+        border: 5px solid red;
+        border-style: dashed;
+        left:815px;
+        top:230px;
+        position:absolute;
+        width: 365px;
+        height: 307px;
+        background:yellow
+    
+    }
+    .tengah2 {
+        border: 5px solid blue;
+        border-style: dotted;
+        left:425px;
+        top:230px;
+        position:absolute;
+        width: 365px;
+        height: 307px;
+        background:yellow
+    
+    }
+    .kiri {
+        border: 5px solid red;
+        border-style: dashed;
+        left:30px;
+        top:230px;
+        position:absolute;
+        width: 365px;
+        height: 307px;
+        background:yellow
+    
+    }
+    h2{
+        text-align: left;
+    }
